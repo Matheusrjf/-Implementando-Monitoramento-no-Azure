@@ -1,5 +1,6 @@
-Implementando Monitoramento de Recursos no Microsoft Azure 🚨
+#Implementando Monitoramento de Recursos no Microsoft Azure 🚨
 📌 Sobre o Projeto
+
 Este repositório foi criado como parte do desafio prático da DIO (Digital Innovation One) com o tema: Configuração e Gerenciamento de Monitoramento no Azure.
 O objetivo é consolidar o conhecimento sobre as ferramentas de monitoramento do Azure, com foco na detecção de eventos críticos, como a exclusão de uma Máquina Virtual (VM).
 
